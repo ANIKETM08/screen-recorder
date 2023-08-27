@@ -1,0 +1,17 @@
+body {
+  padding-top: 120px;
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
+  color: #fff;
+}
+
+.form-signup {
+  margin: auto;
+  max-width: 400px;
+}
+
+.text-color {
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(212, 4, 4));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
